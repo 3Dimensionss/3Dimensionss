@@ -25,15 +25,13 @@
   <a href="https://open.spotify.com/user/31nuzemgd72h4llo3dnl2pshegeu?si=qHWmVIfBQhy2KyH0dJgQ2Q&utm_source=copy-link" target="_blank"><img src="https://now-playing-on-spotify.vercel.app/api/spotify" alt="Spotify Now Playing" width="350"/></a>
 </p>
 
+### GITHUB 𝐒𝐓𝐀𝐓𝐒 🚀
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=3dimensionss&show_icons=true&locale=en" alt="3dimensionss" /></p>
+
 <h3 align="left">𝐒𝐔𝐏𝐏𝐎𝐑𝐓:</h3>
 <p><a href="https://www.buymeacoffee.com/singaedancv"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="40" width="250" alt="1" /></a>
 
 
-### GITHUB 𝐒𝐓𝐀𝐓𝐒 🚀
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=3dimensionss&" alt="3dimensionss" /></p>
-
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=3dimensionss&show_icons=true&locale=en" alt="3dimensionss" /></p>
 
 <summary>&#127942 <b>𝐆𝐈𝐓𝐇𝐔𝐁 𝐓𝐑𝐎𝐏𝐇𝐘</b>
 </summary>
