@@ -7,7 +7,6 @@
 </p>
 
 <p align="center"><a href="https://github.com/3Dimensionss"><img src="https://github-readme-stats.vercel.app/api?username=3dimensionss&show_icons=true&theme=radical"></a>
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=rishavchanda&&theme=tokyonight" alt="3dimensionss" /></p>
 
   ### SHAKE 
 <picture>
@@ -40,3 +39,6 @@
 ### SUPPORT 
 
 <p><a href="https://www.buymeacoffee.com/singaedancv"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="singaedancv" /></a></p><br><br>
+
+### MY
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=rishavchanda&&theme=tokyonight" alt="3dimensionss" /></p>
