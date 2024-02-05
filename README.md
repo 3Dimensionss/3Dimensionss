@@ -1,6 +1,6 @@
 <h1 align="center">Hello, Sorry I'm lazy 🙏🏻<img src="-" width="40px" alt=""><br></h1>
 
-![logo](https://github.com/3Dimensionss/3Dimensionss/blob/main/Hu.gif)
+![logo](https://github.com/3Dimensionss/3Dimensionss/blob/main/Hu.jpg)
 <p align="center">
 𝐒𝐓𝐀𝐓𝐒 𝐆𝐈𝐓𝐇𝐔𝐁
 </p>
@@ -38,6 +38,3 @@
 ### SUPPORT 
 
 <p><a href="https://www.buymeacoffee.com/singaedancv"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="singaedancv" /></a></p><br><br>
-
-### MY
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=rishavchanda&&theme=tokyonight" alt="3dimensionss" /></p>
