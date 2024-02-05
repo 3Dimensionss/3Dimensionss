@@ -1,4 +1,4 @@
-<img align="right" alt="Coding" width="800" src="https://tenor.com/bezWC.gif">
+<img align="right" alt="Coding" width="400" src="https://tenor.com/bezWC.gif">
 
 ### SNAKE 🐍
 <picture>
