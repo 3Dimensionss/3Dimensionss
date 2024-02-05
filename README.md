@@ -38,9 +38,9 @@
 
 ### GITHUB 𝐒𝐓𝐀𝐓𝐒 🚀
 
-<p align="center"><a href="https://github.com/ProjectZeroDays"><img src="https://github-readme-stats.vercel.app/api?username=3Dimensionss&show_icons=true&theme=radical"></a></p>
+<p align="center"><a href="https://github.com/progrium"><img src="https://github-readme-stats.vercel.app/api?username=progrium&show_icons=true&theme=radical"></a></p>
 
 <summary>&#127942 <b>𝐆𝐈𝐓𝐇𝐔𝐁 𝐓𝐑𝐎𝐏𝐇𝐘</b>
 </summary>
 
-![Github Trophy](https://github-profile-trophy.vercel.app/?username=ProjectZeroDays)
+![Github Trophy](https://github-profile-trophy.vercel.app/?username=progrium)
