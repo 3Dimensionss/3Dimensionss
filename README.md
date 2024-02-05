@@ -1,7 +1,7 @@
 <h1 align="center">Hello, Sorry I'm lazy 🙏🏻<img src="-" width="40px" alt=""><br></h1>
 
 <p align="center">
-  <img src="https://github.com/3Dimensionss.png" height=100 />
+  <img src="https://github.com/3Dimensionss.png" height=250 />
 </p>
 
 𝐒𝐓𝐀𝐓𝐒 𝐆𝐈𝐓𝐇𝐔𝐁
