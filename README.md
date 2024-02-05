@@ -26,7 +26,8 @@
 
 ### GITHUB 𝐒𝐓𝐀𝐓𝐒 🚀
 
-<a href="https://github.com/justjavac#gh-light-mode-only">
+
+<a href="https://github.com/3Dimensionss#gh-light-mode-only">
   <img align="left" src="https://github-readme-stats-one-mu-82.vercel.app/api?username=justjavac&show_icons=true&icon_color=805AD5&text_color=718096&bg_color=ffffff&hide_title=true#gh-light-mode-only" />
 </a>
 
