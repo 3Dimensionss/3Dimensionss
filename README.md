@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋🏻, I'm 3 Dimensionss<img src="-" width="40px" alt=""><br></h1>
 
 <p align="center">
-  <img src="https://github.com/3Dimensionss.png" height=200 />
+  <img src="https://github.com/3Dimensionss.png" height=100 />
 </p>
 
   ### SHAKE 
