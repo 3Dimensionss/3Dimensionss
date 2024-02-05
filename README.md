@@ -1,4 +1,10 @@
-<h1 align="center">Hi 👋, I'm 3 Dimensionss</h1>
+h1 align="center">السلام عليكم <img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="40px" alt=""><br></h1>
+<p align="center">
+  <img src="https://github.com/zeeoneofficial.png" height=100 />
+</p>
+
+<p align="center">
+  
 <h3 align="center">Lazy newbie developer</h3>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=3dimensionss" alt="3dimensionss" /></a> </p>
