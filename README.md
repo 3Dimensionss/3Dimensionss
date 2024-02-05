@@ -4,9 +4,9 @@
 </p>
 
 <p align="center">
-𝐈'𝐌 𝐍𝐎𝐓 𝐏𝐑𝐎𝐆𝐀𝐌𝐌𝐄𝐑
+𝐒𝐓𝐀𝐓𝐒 𝐆𝐈𝐓𝐇𝐔𝐁
 </p>
-                                     ### STATS GITHUB
+
 <p align="center"><a href="https://github.com/3Dimensionss"><img src="https://github-readme-stats.vercel.app/api?username=zeeoneofficial&show_icons=true&theme=radical"></a>
 
   ### SHAKE 
