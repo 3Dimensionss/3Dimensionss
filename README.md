@@ -29,7 +29,7 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=3dimensionss&show_icons=true&locale=en" alt="3dimensionss" /></p>
 
 <h3 align="left">𝐒𝐔𝐏𝐏𝐎𝐑𝐓:</h3>
-<p><a href="https://www.buymeacoffee.com/singaedancv"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="40" width="250" alt="1" /></a>
+<p><a href="https://www.buymeacoffee.com/singaedancv"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="40" width="220" alt="1" /></a>
 
 
 
