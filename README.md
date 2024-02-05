@@ -29,6 +29,13 @@
 </picture>
 
 
+### 𝐒𝐏𝐎𝐓𝐈𝐅𝐘 𝐏𝐋𝐀𝐘𝐈𝐍𝐆 🎧
+
+<p align="center">
+  <a href="https://open.spotify.com/user/31nuzemgd72h4llo3dnl2pshegeu?si=qHWmVIfBQhy2KyH0dJgQ2Q&utm_source=copy-link" target="_blank"><img src="https://now-playing-on-spotify.vercel.app/api/spotify" alt="Spotify Now Playing" width="350"/></a>
+</p>
+
+
 ### GITHUB 𝐒𝐓𝐀𝐓𝐒 🚀
 
 <p align="center"><a href="https://github.com/3Dimensionss"><img src="https://github-readme-stats.vercel.app/api?username=3Dimensionss&show_icons=true&theme=radical"></a></p>
