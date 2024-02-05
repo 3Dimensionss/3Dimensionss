@@ -4,8 +4,10 @@
 </p>
 
 <p align="center">
+𝐈'𝐌 𝐍𝐎𝐓 𝐏𝐑𝐎𝐆𝐀𝐌𝐌𝐄𝐑
+</p>
   
-### NEWBIE DEVELOPER
+
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=3dimensionss" alt="3dimensionss" /></a> </p>
 
