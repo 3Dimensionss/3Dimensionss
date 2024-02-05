@@ -6,7 +6,7 @@
 <p align="center">
 𝐈'𝐌 𝐍𝐎𝐓 𝐏𝐑𝐎𝐆𝐀𝐌𝐌𝐄𝐑
 </p>
-
+STATS GITHUB
 <p align="center"><a href="https://github.com/3Dimensionss"><img src="https://github-readme-stats.vercel.app/api?username=zeeoneofficial&show_icons=true&theme=radical"></a>
 
   ### SHAKE 
@@ -40,8 +40,3 @@
 ### SUPPORT 
 
 <p><a href="https://www.buymeacoffee.com/singaedancv"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="singaedancv" /></a></p><br><br>
-
-### GITHUB STATS 
-
-</p>
-<p align="center"><a href="https://github.com/3Dimensionss"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=3Dimensionss&theme=radical&layout=compact"></a></p> 
