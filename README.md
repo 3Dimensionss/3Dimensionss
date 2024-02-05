@@ -40,3 +40,4 @@
 
 <p align="center"><a href="https://github.com/3Dimensionss"><img src="https://github-readme-stats.vercel.app/api?username=3Dimensionss&show_icons=true&theme=radical"></a></p>
 
+![Github Trophy](https://github-profile-trophy.vercel.app/?username=zeeoneofficial)
