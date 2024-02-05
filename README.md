@@ -1,7 +1,4 @@
-<img src="https://www.wallpaperflare.com/anime-anime-girls-mask-simple-background-wallpaper-gjgrg">
-
-
-<img align="right" alt="Coding" width="400" src="https://media.tenor.com/rePDfDWO3XoAAAAd/hacking.gif">
+<img align="middle" alt="Coding" width="400" src="https://media.tenor.com/rePDfDWO3XoAAAAd/hacking.gif">
 
 ### SNAKE 🐍
 <picture>
