@@ -26,7 +26,7 @@
 </p>
 
 <h3 align="left">𝐒𝐔𝐏𝐏𝐎𝐑𝐓:</h3>
-<p><a href="https://www.buymeacoffee.com/singaedancv"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="40" width="40" alt="1" /></a>
+<p><a href="https://www.buymeacoffee.com/singaedancv"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="40" width="400" alt="1" /></a>
 
 
 ### GITHUB 𝐒𝐓𝐀𝐓𝐒 🚀
