@@ -1,11 +1,11 @@
 <h1 align="center">Hello, Sorry I'm lazy 🙏🏻<img src="-" width="40px" alt=""><br></h1>
 <p align="center">
-  <img src="https://github.com/3dimensionss.png" height=100 />
+  <img src="https://github.com/3dimensionss.png" height=200 />
 </p>
 
 <p align="center">
   
-<h3 align="center">Lazy newbie developer</h3>
+<h3 align="center">newbie developer</h3>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=3dimensionss" alt="3dimensionss" /></a> </p>
 
