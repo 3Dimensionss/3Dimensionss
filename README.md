@@ -33,4 +33,4 @@
 <summary>&#127942 <b>𝐆𝐈𝐓𝐇𝐔𝐁 𝐓𝐑𝐎𝐏𝐇𝐘</b>
 </summary>
 
-![Github Trophy](https://github-profile-trophy.vercel.app/?username=justjavac)
+![Github Trophy](https://github-profile-trophy.vercel.app/?username=3Dimensionss)
