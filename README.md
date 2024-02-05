@@ -1,6 +1,6 @@
 <img align="middle" alt="Coding" width="400" src="https://media.tenor.com/rePDfDWO3XoAAAAd/hacking.gif">
 
-<img align="middle" alt="Coding" width="400" src="https://tenor.com/bezWC.gif">
+<img align="right" alt="Coding" width="400" src="https://tenor.com/bezWC.gif">
 
 ### SNAKE 🐍
 <picture>
