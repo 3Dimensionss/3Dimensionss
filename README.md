@@ -7,6 +7,8 @@
 𝐈'𝐌 𝐍𝐎𝐓 𝐏𝐑𝐎𝐆𝐀𝐌𝐌𝐄𝐑
 </p>
 
+<p align="center"><a href="https://github.com/3Dimensionss"><img src="https://github-readme-stats.vercel.app/api?username=zeeoneofficial&show_icons=true&theme=radical"></a>
+
   ### SHAKE 
 <picture>
   <source
@@ -41,5 +43,5 @@
 
 ### GITHUB STATS 
 
-<p align="center"><a href="https://github.com/3Dimensionss"><img src="https://github-readme-stats.vercel.app/api?username=zeeoneofficial&show_icons=true&theme=radical"></a></p>
+</p>
 <p align="center"><a href="https://github.com/3Dimensionss"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=3Dimensionss&theme=radical&layout=compact"></a></p> 
