@@ -9,8 +9,6 @@
   
 
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=3dimensionss" alt="3dimensionss" /></a> </p>
-
 ### CONNECT WITH ME
 
 <p align="left">
