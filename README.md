@@ -40,13 +40,7 @@
 
 <p align="center"><a href="https://github.com/3Dimensionss"><img src="https://github-readme-stats.vercel.app/api?username=3Dimensionss&show_icons=true&theme=radical"></a></p>
 
-<summary>&#127942 <b>GitHub Awards</b>
+<summary>&#127942 <b>𝐆𝐈𝐓𝐇𝐔𝐁 𝐓𝐑𝐎𝐏𝐇𝐘</b>
 </summary>
 
-![Github Trophy](https://github-profile-trophy.vercel.app/?username=zeeoneofficial)
-
-
-<summary>&#127942 <b>GitHub Activity</b>
-</summary>
-
-![Metrics](https://metrics.lecoq.io/zeeoneofficial?template=classic&repositories.forks=true&languages=1&languages.colors=github&languages.threshold=0%25&config.timezone=Asia%2FYogyakarta)
+![Github Trophy](https://github-profile-trophy.vercel.app/?username=Github)
