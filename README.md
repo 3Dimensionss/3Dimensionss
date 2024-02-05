@@ -7,6 +7,20 @@
 𝐈'𝐌 𝐍𝐎𝐓 𝐏𝐑𝐎𝐆𝐀𝐌𝐌𝐄𝐑
 </p>
   
+<picture>
+  <source
+    media="(prefers-color-scheme: red)"
+    srcset="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg"
+  />
+  <source
+    media="(prefers-color-scheme: black)"
+    srcset="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg"
+  />
+  <img
+    alt="github contribution grid snake animation"
+    src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg"
+  />
+</picture>
 
 
 ### CONNECT WITH ME
