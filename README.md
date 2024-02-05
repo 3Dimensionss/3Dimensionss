@@ -6,7 +6,8 @@
 𝐒𝐓𝐀𝐓𝐒 𝐆𝐈𝐓𝐇𝐔𝐁
 </p>
 
-<p align="center"><a href="https://github.com/3Dimensionss"><img src="https://github-readme-stats.vercel.app/api?username=zeeoneofficial&show_icons=true&theme=radical"></a>
+<p align="center"><a href="https://github.com/3Dimensionss"><img src="https://github-readme-stats.vercel.app/api?username=3dimensionss&show_icons=true&theme=radical"></a>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=rishavchanda&&theme=tokyonight" alt="3dimensionss" /></p>
 
   ### SHAKE 
 <picture>
