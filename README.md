@@ -38,7 +38,7 @@
 
 ### GITHUB 𝐒𝐓𝐀𝐓𝐒 🚀
 
-<p align="center"><a href="https://github.com/3Dimensionss"><img src="https://github-readme-stats.vercel.app/api?username=ProgrammingHero1&show_icons=true&theme=radical"></a></p>
+<p align="center"><a href="https://github.com/3Dimensionss"><img src="https://github-readme-stats.vercel.app/api?username=projectdiscovery&show_icons=true&theme=radical"></a></p>
 
 <summary>&#127942 <b>𝐆𝐈𝐓𝐇𝐔𝐁 𝐓𝐑𝐎𝐏𝐇𝐘</b>
 </summary>
