@@ -5,15 +5,7 @@
 </p>
 <p align="center">
   
-<img src="https://raw.githubusercontent.com/sagar-viradiya/sagar-viradiya/master/resources/banner.png" alt="Hello world">
-
-<p align="center"> 
-
-- 👤 My name is 3 Dimensionss 
-- 💌 I am 2023 years old 
-- 👨‍💻 I am not programmer
-
-</p>
+<img src="https://raw.githubusercontent.com/sagar-viradiya/sagar-viradiya/master/resources/banner.png" alt="Hello world>
 
   ### SHAKE 
 <picture>
