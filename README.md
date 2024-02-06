@@ -3,6 +3,13 @@
 <p align="center">
   <img src="https://github.com/3Dimensionss.png" height=100 />
 </p>
+<p align="center">
+
+- 👤 My name is 3 Dimensionss 
+- 💌 I am 2023 years old 
+- 👨‍💻 I am not programmer
+
+</p>
 
   ### SHAKE 
 <picture>
