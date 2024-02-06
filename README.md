@@ -34,7 +34,7 @@
 </p>
 𝐒𝐓𝐀𝐓𝐒 𝐆𝐈𝐓𝐇𝐔𝐁
 
-[![3 Dimensionss GitHub stats](https://github-readme-stats.vercel.app/api?username=3dimensionss\&show_icons=true\&theme=dark#gh-dark-mode-only)](https://github.com/3dimensionss/github-readme-stats#responsive-card-theme#gh-dark-mode-only)
+[![3 Dimensionss GitHub stats](https://github-readme-stats.vercel.app/api?username=3dimensionss\&show_icons=true\&theme=tokyonight#gh-dark-mode-only)](https://github.com/3dimensionss/github-readme-stats#responsive-card-theme#gh-dark-mode-only)
 [![3 Dimensionss GitHub stats](https://github-readme-stats.vercel.app/api?username=3dimensionss\&show_icons=true\&theme=default#gh-light-mode-only)](https://github.com/3dimensionss/github-readme-stats#responsive-card-theme#gh-light-mode-only)
 
 ### CONNECT WITH ME
